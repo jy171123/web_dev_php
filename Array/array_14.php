@@ -1,9 +1,9 @@
 <?php
 
 $personal_detail = array(
-    "name"=>"ani",
+    "name"=>"yashvi",
     "age"=>"22",
-    "email"=>"ani1@gmail.com");
+    "email"=>"yashvi17@gmail.com");
 unset($personal_detail["email"]);
 print_r($personal_detail)
 ?>
