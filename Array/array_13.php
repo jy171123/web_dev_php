@@ -1,7 +1,7 @@
 <?php
 $personal_detail = array(
-    "name"=>"avi",
+    "name"=>"yashvi",
     "age"=>"22",
-    "email"=>"avani0@gmail.com");
+    "email"=>"yashvi17@gmail.com");
 echo "The age of the person is ".$personal_detail["age"];
 ?>
